@@ -1,0 +1,14 @@
+# local package install
+
+-e .
+
+dvc
+dvc[gdrive]
+scikit-learn
+pandas
+pytest
+tox
+flake8
+flask
+gunicorn
+mlflow
